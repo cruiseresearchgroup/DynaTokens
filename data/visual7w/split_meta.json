@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "train_ratio": 0.8,
+  "drop_empty": true,
+  "raw_num_images": 28653,
+  "raw_num_qas": 139868,
+  "used_num_images": 28653,
+  "used_num_qas": 139868,
+  "train_num_images": 22922,
+  "train_num_qas": 111913,
+  "val_num_images": 5731,
+  "val_num_qas": 27955
+}
